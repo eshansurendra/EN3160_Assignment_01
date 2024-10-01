@@ -38,7 +38,7 @@ This repository contains the Jupyter Notebook and supporting files for EN3160 As
 
 ## Dependencies
 
-* Python 3.x
+* Python 3.8
 * Jupyter Notebook
 * Libraries: OpenCV (cv2), NumPy, Matplotlib (likely already installed if you have Jupyter)
 
