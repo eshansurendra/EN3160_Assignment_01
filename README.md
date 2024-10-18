@@ -19,7 +19,7 @@ This repository contains the Jupyter Notebook and supporting files for EN3160 As
 
 1. **Clone the repository:** 
    ```bash
-   git clone https://github.com/your-username/EN3160_Assignment_01.git
+   git clone https://github.com/eshansurendra/EN3160_Assignment_01.git
    ```
 2. **Navigate to the Notebook directory:**
    ```bash
